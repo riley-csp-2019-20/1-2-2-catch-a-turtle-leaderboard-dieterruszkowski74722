@@ -1,0 +1,5 @@
+shrek,7
+joe,6
+mama,9
+jack,4
+ghj& "C:/Program Files (x86)/Python37-32/python.exe" "c:/Users/dieter74722/Documents/New Python/122dieterruszkowski2.py",0
